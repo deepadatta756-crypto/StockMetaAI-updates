@@ -1,7 +1,7 @@
 {
-  "latestVersion": "2.2.0",
-  "latestVersionCode": 5,
-  "apkUrl": "https://github.com/deepadatta756-crypto/StockMetaAI-updates/releases/download/v2.2.0/stockmetaai_v2.2.0_release.apk",
+  "latestVersion": "2.2.1",
+  "latestVersionCode": 6,
+  "apkUrl": "https://github.com/deepadatta756-crypto/StockMetaAI-updates/releases/download/v2.2.1/stockmetaai_v2.2.1_release.apk",
   "forceUpdate": false,
-  "releaseNotes": "Direct Publish: FTP/SFTP upload to stock platforms, full 8-language UI, platform dropdown with one-time AI generation."
+  "releaseNotes": "Real in-app update: Update button now downloads and installs inside the app."
 }
