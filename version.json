@@ -1,7 +1,7 @@
 {
-  "latestVersion": "2.5.0",
-  "latestVersionCode": 9,
-  "apkUrl": "https://github.com/deepadatta756-crypto/StockMetaAI-updates/releases/download/v2.5.0/stockmetaai_v2.5.0_release.apk",
+  "latestVersion": "2.6.0",
+  "latestVersionCode": 10,
+  "apkUrl": "https://github.com/deepadatta756-crypto/StockMetaAI-updates/releases/download/v2.6.0/stockmetaai_v2.6.0_release.apk",
   "forceUpdate": false,
-  "releaseNotes": "SEO Controls: sliders with Auto (Best) default, duplicate-keyword fix, simpler UI."
+  "releaseNotes": "Voice progress announcements (muted by default), prominent processing fan with auto-scroll, compact mobile upload area."
 }
